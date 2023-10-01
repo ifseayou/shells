@@ -8,4 +8,10 @@ cpy.sh x
 # 如果目标x是文件夹，需要协商目标
 cpy.sh x x
 
+```
+
+gmd.sh 
+``` shell 
+gmd.sh 文件名
+
 
